@@ -1,4 +1,5 @@
 /* global $*/
+"use strict";
 
 $(function() {
   $(".thumbnail").on("click", "img", function(event) {
